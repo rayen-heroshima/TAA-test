@@ -125,14 +125,16 @@ const CrietresESG: React.FC = () => {
 
       {/* Added Paragraph */}
       <motion.p
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.3 }}
-        className="text-lg text-gray-700 mb-8 text-center"
-      >
-        Les critères ESG (Environnementaux, Sociaux et de Gouvernance) présentés ont été définis en fonction des préoccupations les plus pertinentes dans le secteur automobile. Ce choix a été réalisé afin de garantir une approche adaptée aux enjeux spécifiques de l’industrie automobile. Ces critères ont été élaborés lors d’ateliers de travail réunissant des représentants d’entreprises du secteur, permettant ainsi d’assurer leur pertinence et leur alignement avec les pratiques et attentes du secteur. Cette démarche collaborative renforce la crédibilité et l’applicabilité des critères ESG dans le cadre des stratégies de durabilité des entreprises automobiles.
-        Ces critères s’inscrivent en parfaite synergie avec les cadres réglementaires et normatifs internationaux tels que la CSRD, la CS3D, les ODD et la norme ISO 26000, consolidant ainsi leur valeur stratégique et leur impact durable.
-      </motion.p>
+  initial={{ opacity: 0, y: -20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ delay: 0.3 }}
+  className="text-lg text-gray-700 mb-8 "
+>
+  Les critères ESG (Environnementaux, Sociaux et de Gouvernance) présentés ont été définis en fonction des préoccupations les plus pertinentes dans le secteur automobile. Ce choix a été réalisé afin de garantir une approche adaptée aux enjeux spécifiques de l’industrie automobile. Ces critères ont été élaborés lors d’ateliers de travail réunissant des représentants d’entreprises du secteur, permettant ainsi d’assurer leur pertinence et leur alignement avec les pratiques et attentes du secteur. Cette démarche collaborative renforce la crédibilité et l’applicabilité des critères ESG dans le cadre des stratégies de durabilité des entreprises automobiles.
+  <br />
+  Ces critères s’inscrivent en parfaite synergie avec les cadres réglementaires et normatifs internationaux tels que la CSRD, la CS3D, les ODD et la norme ISO 26000, consolidant ainsi leur valeur stratégique et leur impact durable.
+</motion.p>
+
 
       <div className="flex flex-wrap gap-6 justify-center">
         {sections.map(({ key, title, icon, items, color }) => (
