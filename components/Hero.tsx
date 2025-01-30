@@ -114,7 +114,7 @@ export default function Hero() {
         <div className="max-w-3xl space-y-8">
           {/* Main heading with gradient text */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold">
-            <span className="text-white">ESG</span>{' '}
+            
             <span className="bg-gradient-to-r from-red-700 to-red-500 text-transparent bg-clip-text">
               Un Engagement ESG pour un Secteur Automobile Durable
             </span>
