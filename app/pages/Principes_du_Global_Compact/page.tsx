@@ -47,35 +47,35 @@ const PrinciplesPage = () => {
     {
       number: 6,
       title:
-        "Principe 6 Contribuer à l’élimination de toute discrimination en matière d’emploi et de profession. ",
+        " Contribuer à l’élimination de toute discrimination en matière d’emploi et de profession. ",
       content:
         "La discrimination dans l’emploi consiste au fait de traiter les gens différemment en raison de caractéristiques qui ne sont pas liées à leur mérite ou aux compétences inhérentes à l’emploi. Dans la législation nationale, ces caractéristiques comprennent généralement : la couleur de la peau, le sexe, la religion, l’opinion politique, l’ascendance nationale, l’origine sociale, l’âge, le handicap, l’affiliation syndicale et l’orientation sexuelle. La discrimination entraîne des tensions sociales qui peuvent perturber l’environnement commercial au sein de l’entreprise et dans la société. Une entreprise qui recourt à des pratiques discriminatoires en matière d’emploi et de profession se prive de l’accès aux talents d’un plus grand nombre de travailleurs, et donc aux aptitudes et aux compétences. La blessure et le ressentiment générés par la discrimination affecteront les performances des individus et des équipes au sein de l’entreprise. Toutefois, le principe 6 permet aux entreprises d’envisager des motifs supplémentaires où la discrimination dans l’emploi et la profession peut se produire.",
     },
     {
       number: 7,
       title:
-        "Principe 7 Appliquer l’approche de précaution face aux problèmes touchant l’environnement.",
+        "Appliquer l’approche de précaution face aux problèmes touchant l’environnement.",
       content:
         "Le principe de précaution introduit par le principe 15 de la Déclaration de Rio de 1992 stipule que « Pour protéger l’environnement, des mesures de précaution doivent être largement appliquées par les États selon leurs capacités. En cas de risque de dommages graves ou irréversibles, l’absence de certitude scientifique absolue ne doit pas servir de prétexte pour remettre à plus tard l’adoption de mesures effectives visant à prévenir la dégradation de l’environnement ».",
     },
     {
       number: 8,
       title:
-        "Principe 8 Prendre des initiatives tendant à promouvoir une plus grande responsabilité en matière d’environnement.",
+        "Prendre des initiatives tendant à promouvoir une plus grande responsabilité en matière d’environnement.",
       content:
         "Le chapitre 30 de l’Agenda 21 publié lors du Sommet de la Terre de Rio de 1992 énonce le rôle des entreprises et de l’industrie dans l’agenda du développement durable. La Déclaration de Rio affirme que les entreprises ont la responsabilité d’assurer que les activités au sein de leurs propres opérations ne causent pas de dommages à l’environnement. La société attend des entreprises qu’elles soient de bons acteurs de la communauté.",
     },
     {
       number: 9,
       title:
-        "Principe 9 Favoriser la mise au point et la diffusion de technologies respectueuses de l’environnement.",
+        "Favoriser la mise au point et la diffusion de technologies respectueuses de l’environnement.",
       content:
         "Les technologies respectueuses de l’environnement tel que défini dans l’Agenda 21 de la Déclaration de Rio, se doivent de protéger l’environnement, d’être moins polluantes, d’utiliser les ressources de manière durable, de recycler et traiter leurs déchets.Ces technologies qui peuvent prendre la forme d’un savoir-faire, une procédure, un produit, un service, etc., comprennent une variété de procédés de production plus propres et des solutions de prévention et de surveillance.",
     },
     {
       number: 10,
       title:
-        "Principe 10 Agir contre la corruption sous toutes ses formes, y compris l’extorsion de fonds et les pots-de-vin.",
+        "Agir contre la corruption sous toutes ses formes, y compris l’extorsion de fonds et les pots-de-vin.",
       content:
         "Le dixième et dernier principe du Pacte mondial des Nations Unies concerne la lutte contre la corruption. Adopté en 2004, il engage les participants à éviter la corruption, l’extorsion et d’autres formes de corruption, mais aussi à développer de manière proactive des politiques et des programmes concrets pour lutter contre la corruption en interne et au sein de leurs chaînes d’approvisionnement. Les entreprises sont également mises au défi de travailler collectivement et de rejoindre la société civile, les agences des Nations Unies et les gouvernements afin d’atteindre une économie mondiale plus transparente.Pour Transparency International, la corruption est « l’abus de pouvoir à des fins privées ». Cela peut signifier non seulement un gain financier mais également des avantages non financiers. La corruption correspond à « une offre ou la réception de tout don, prêt, frais, récompense ou autre avantage comme une incitation à faire quelque chose qui est malhonnête, illégal ou un abus de confiance, dans la conduite des affaires de l’entreprise ».Les lignes directrices de l’OCDE pour les entreprises multinationales définissent l’extorsion de la manière suivante : « La sollicitation de pots-de-vin est l’acte de demander ou d’inciter autrui à commettre un acte de corruption. Il devient extorsion lorsque cette demande est accompagnée par les menaces qui mettent en danger l’intégrité personnelle ou la vie privée de l’acteur impliqué ».La corruption met en danger la réputation d’une entreprise et accroît les risques juridiques, financiers, etc.",
     },

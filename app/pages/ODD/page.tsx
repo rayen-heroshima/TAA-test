@@ -177,7 +177,7 @@ const ODDpage = () => {
               </div>
               <p className="text-gray-600 mb-6 text-lg">{odd.description}</p>
               <a
-                href={`https://sdgs.un.org/goals/goal${odd.number}`}
+                href={`https://sdgs.un.org/fr/goals/goal${odd.number}`}
                 target="_blank"
                 className="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 transition duration-300"
               >
